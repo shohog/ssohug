@@ -5,9 +5,6 @@
 - ⚡  I'm interested in Deep Reinforcement Learning
 - 👯 Fun fact: I love to read books, watch movies, TV Serials and Travel
 - 🥅 Fun Goals: Learn to play Sarod, Travel many countries around the world
-<!--- - 🌱 🤣
---->
-<br />
 
 ---
 
