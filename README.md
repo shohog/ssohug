@@ -7,9 +7,7 @@
 - 🥅 Fun Goals: Learn to play Sarod, Travel many countries around the world
 <!--- - 🌱 🤣
 --->
-<br />
-  
----
+<br />---
 
 ### Programming Languages:
 <!-- [<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
