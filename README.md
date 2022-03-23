@@ -1,10 +1,10 @@
-### Hi there, I'm Subangkar Karmaker Shanto 👋
+### Hi there, I'm saiful Islam Shohag 👋
 
-**I'm currently a CS graduate from Bangladesh University of Engineering & Technology (BUET)**
-- ⚡  I'm a Backend Developer.
-- ⚡  I'm interested in Deep Learning
-- 👯 Fun fact: I love to watch movies, TV Serials and Travel
-- 🥅 Fun Goals: Learn to Cook, Travel many countries around the world
+**I'm currently a EEE graduate from University of Asia Pacific (UAP)**
+- ⚡  I'm a ML engineer.
+- ⚡  I'm interested in Deep Reinforcement Learning
+- 👯 Fun fact: I love to read books, watch movies, TV Serials and Travel
+- 🥅 Fun Goals: Learn to play Sarod, Travel many countries around the world
 <!--- - 🌱 🤣
 --->
 
