@@ -1,44 +1,31 @@
 ### Hi there, I'm saiful Islam Shohag 👋
 
 **I'm currently a EEE graduate from University of Asia Pacific (UAP)**
-- ⚡  I'm a ML engineer.
+- ⚡  I'm a Machine Learning engineer.
 - ⚡  I'm interested in Deep Reinforcement Learning
-- 👯 Fun fact: I love to read books, watch movies, TV Serials and Travel
+- 👯 Fun fact: I love to read fictions, watch movies, TV Serials and Travel
 - 🥅 Fun Goals: Learn to play Sarod, Travel many countries around the world
 
 ---
 
 ### Programming Languages:
 <!-- [<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
-[<img align="left" alt="C++" width="50px" height="35px" src="https://i.ibb.co/7G84R00/image.png" />](http://www.cplusplus.com/)
+
 [<img align="left" alt="C" width="50px" height="35px" src="https://i.ibb.co/fNb1J47/image.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="Java" width="50px" height="35px" src="https://i.ibb.co/8dzYPBS/image.png" />](https://www.java.com/)
-[<img align="left" alt="JavaScript" width="50px" height="35px" src="https://i.ibb.co/ts54MPX/image.png" />](https://www.javascript.com/)
-[<img align="left" alt="Bash" width="50px" height="35px" src="https://i.ibb.co/Z1JcmYm/image.png" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="Tcl" width="50px" height="35px" src="https://www.tcl.tk/images/pwrdLogo200.gif" />](https://www.tcl.tk/)
+
 [<img align="left" alt="Matlab" width="50px" height="35px" src="https://i.ibb.co/K5sz46B/image.png" />](https://www.mathworks.com/products/matlab.html)
 [<img align="left" alt="Assembly" width="50px" height="35px" src="https://i.ibb.co/9wythsn/image.png" />](https://jbwyatt.com/253/emu/asm_tutorial_01.html) -->
-`Python` `C++` `C` `Java` `JavaScript` `Bash` `Tcl` `Matlab` `8086 Assembly`
+`Python` `C++` `C` `Matlab` `8086 Assembly`
 <br />
     
 ### Frameworks & Tools:
-[<img align="left" alt="Django" width="50px" height="35px" src="https://i.ibb.co/CWTdZFx/image.png" />](https://www.djangoproject.com/)
-[<img align="left" alt="Django REST Framework" width="50px" height="35px" src="https://www.django-rest-framework.org/img/logo.png" />](https://www.django-rest-framework.org/)
-[<img align="left" alt="SQL" width="50px" height="35px" src="https://i.ibb.co/C0Jb4HH/image.png" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="Oracle Database" width="50px" height="35px" height="26px" src="https://i.ibb.co/wdRd4Gp/image.png" />](https://www.oracle.com/database/technologies/)
-[<img align="left" alt="PostgreSQL" width="50px" height="35px" src="https://i.ibb.co/8mP1fH1/image.png" />](https://www.postgresql.org/)
-[<img align="left" alt="MySQL" width="50px" height="35px" src="https://i.ibb.co/fQxKvWs/image.png" />](https://www.mysql.com/)
-[<img align="left" alt="JavaFx" width="50px" height="35px" src="https://i.ibb.co/nBCsn4c/image.png" />](https://www.oracle.com/java/technologies/javase/javafx-overview.html)
-<br />
+
 
 [<img align="left" alt="Keras" width="50px" height="35px" src="https://i.ibb.co/fGjD3Ns/image.png" />](https://keras.io/)
 [<img align="left" alt="PyTorch" width="50px" height="35px" src="https://i.ibb.co/mFzwkV2/image.png" />](https://pytorch.org/)
 [<img align="left" alt="Scikit Learn" width="50px" height="35px" src="https://i.ibb.co/HhxPLyH/image.png" />](https://scikit-learn.org/)
-[<img align="left" alt="Corda" width="50px" height="35px" src="https://i.ibb.co/30MHCtn/image.png" />](https://www.corda.net/)
 <br />
 
-[<img align="left" alt="Tizen App Development" width="50px" height="35px" src="https://i.ibb.co/FDGfMqR/image.png" />](https://developer.tizen.org/)
-[<img align="left" alt="Atmega32 Microcontroller interfacing" width="50px" height="35px" src="https://i.ibb.co/ZKLWdJH/image.png" />](https://www.microchip.com/wwwproducts/ATmega32)
 <br />
 
 [<img align="left" alt="Git" width="50px" height="35px" src="https://i.ibb.co/RpqgDfp/image.png" />](https://git-scm.com/)
