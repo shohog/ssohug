@@ -74,8 +74,7 @@
 <img align="left" height="250px" width="400px" alt="Topmost Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subangkar&layout=compact&hide_border=true&theme=radical" />
 -->
 <br />
-  
-Thanks to https://github-readme-stats.vercel.app/ for stats themes.
+ 
 
   
   
