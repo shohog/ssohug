@@ -8,6 +8,18 @@
 
 ---
 
+### Connect with me:
+[<img align="left" alt="Subangkar | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Subangkar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Subangkar | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!---
+[<img align="left" alt="Subangkar" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Subangkar | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+-->
+<br />
+
+---
+
 ### Programming Languages:
 <!-- [<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
 
@@ -74,7 +86,7 @@ Thanks to https://github-readme-stats.vercel.app/ for stats themes.
 [twitter]: https://twitter.com/Subangkar_Kr
 [youtube]: https://www.youtube.com/channel/UCZXpAN0rFHIsnGfvvAgRXgA
 [instagram]: https://www.instagram.com/subangkar.karmaker
-[linkedin]: https://www.linkedin.com/in/subangkar-karmaker
+[linkedin]: https://www.linkedin.com/in/saiful-sohug
 
 
 <!--
