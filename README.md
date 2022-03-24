@@ -34,26 +34,21 @@
 <br />
 
 [<img align="left" alt="PyCharm" width="50px" height="35px" src="https://i.ibb.co/whg19gH/image.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="CLion" width="50px" height="35px" src="https://i.ibb.co/7p8C6VD/image.png" />](https://www.jetbrains.com/clion/)
-[<img align="left" alt="IntelliJ IDEA" width="50px" height="35px" src="https://i.ibb.co/jyM4454/image.png" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="WebStorm" width="50px" height="35px" src="https://i.ibb.co/j68JC7v/image.png" />](https://www.jetbrains.com/webstorm/)
-[<img align="left" alt="Netbeans" width="50px" height="35px" src="https://i.ibb.co/dJLzgvG/netbeans-logo-21.png" />](https://netbeans.org/)
+
 [<img align="left" alt="Visual Studio" width="50px" height="35px" src="https://i.ibb.co/nc0QqHt/image.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Tizen Studio" width="50px" height="35px" src="https://i.ibb.co/xDtQpH3/image.png" />](https://developer.tizen.org/development/tizen-studio/overview)
-[<img align="left" alt="Atmel Studio" width="50px" height="35px" src="https://i.ibb.co/RNTkTX3/image.png" />](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
 [<img align="left" alt="Visual Studio Code" width="50px" height="35px" src="https://i.ibb.co/Wxt9zvg/image.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Atom" width="50px" height="35px" src="https://i.ibb.co/j86VLn6/image.png" />](https://atom.io/)
 [<img align="left" alt="Jupyter Notebook" width="50px" height="35px" src="https://i.ibb.co/GMLxXcg/image.png" />](https://jupyter.org/)
 <br />
 
 [<img align="left" alt="LaTex" width="50px" height="35px" src="https://i.ibb.co/Cn5G0MZ/image.png" />](https://www.latex-project.org/)
-[<img align="left" alt="Swagger" width="50px" height="35px" src="https://i.ibb.co/Jr1jsfR/image.png" />](https://swagger.io/)
+
 <br />
 
 ---
 
 ### 📕 Projects
-- [FoodSquare](https://github.com/Subangkar/Foodsquare-Web-App): A Django web-app for an online restaurant hub
+- [Kotha Feed](https://github.com/ssohug/Kotha-Feed-Classifier): A Heroku web-app for a Bangladeshi local social network.
 - [Samsung Gear Fit 2 Pro PPG Logger](https://github.com/Subangkar/Tizen-Sensor-Raw-Data-Saving-Service): Tizen native [app](https://github.com/Subangkar/Gear-Fit-2-Sensor-Raw-Data-Sync) & [service](https://github.com/Subangkar/Tizen-Sensor-Raw-Data-Saving-Service) to collect raw sensor data
 - [Image Captioning](https://github.com/Subangkar/Image-Captioning-Attention-PyTorch): Attention based sequential deep learning model to generate single line caption given an image
 - [Real Time Audio to Frequency Spectrum Transformation on Atmega32 Microcontroller](https://github.com/Subangkar/Real-Time-Audio-to-Frequency-Spectrum-Transformation-on-Atmega32)
