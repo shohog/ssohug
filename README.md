@@ -1,6 +1,6 @@
 ### Hi there, I'm saiful Islam Shohag 👋
 
-**I'm currently a EEE graduate from University of Asia Pacific (UAP)**
+**I'm a EEE graduate from University of Asia Pacific (UAP)**
 - ⚡  I'm a Machine Learning engineer.
 - ⚡  I'm interested in Deep Reinforcement Learning
 - 👯 Fun fact: I love to read fictions, watch movies, TV Serials and Travel
